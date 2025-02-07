@@ -1,9 +1,10 @@
+import Accordian from "./components/accordian/Accordian"
 
 const App = () => {
   return (
-    <div>
-      <h1 className="text-center text-3xl">Hello</h1>
-    </div>
+    <section className="bg-slate-100 h-screen">
+      <Accordian />
+    </section>
   )
 }
 
