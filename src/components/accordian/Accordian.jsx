@@ -30,7 +30,7 @@ const Accordian = () => {
 
     return (
         <div>
-            <AppTitle>Accordian</AppTitle>
+            <AppTitle>Accordian 2.0</AppTitle>
 
             <div className="flex justify-center items-center">
                 <div
